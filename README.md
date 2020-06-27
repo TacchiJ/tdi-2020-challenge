@@ -1,5 +1,3 @@
-# tdi-2020-challenge
-
 # Project Proposal
 
 ## Idea: Sentiment analysis of Corona Virus Tweets compared against it's spread, by state
